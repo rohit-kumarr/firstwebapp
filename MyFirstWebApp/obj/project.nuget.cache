@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9SM1qITPAb8yQUD+9qf8Og8sRUNrKPOtQ5aiHLmuEDq48gLyKQgZb26J/p1SEOFsk68dsM0Q+nHdIa7sn1TWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rohit kumar\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rohit kumar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
